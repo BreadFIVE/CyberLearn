@@ -1,0 +1,102 @@
+[
+  {
+    "id": "network",
+    "title": "How Networks Work",
+    "order": 1,
+    "minutes": 19,
+    "words": 2827,
+    "quiz": 11,
+    "terms": 23,
+    "quest": "network"
+  },
+  {
+    "id": "linux",
+    "title": "The Linux Command Line",
+    "order": 2,
+    "minutes": 15,
+    "words": 2170,
+    "quiz": 11,
+    "terms": 20,
+    "quest": "linux"
+  },
+  {
+    "id": "crypto",
+    "title": "Cryptography: Secrets and Proof",
+    "order": 3,
+    "minutes": 17,
+    "words": 2392,
+    "quiz": 11,
+    "terms": 22,
+    "quest": "crypto"
+  },
+  {
+    "id": "web",
+    "title": "Web Security Basics",
+    "order": 4,
+    "minutes": 15,
+    "words": 2027,
+    "quiz": 11,
+    "terms": 22,
+    "quest": "web"
+  },
+  {
+    "id": "social",
+    "title": "Social Engineering: Hacking People",
+    "order": 5,
+    "minutes": 15,
+    "words": 2038,
+    "quiz": 10,
+    "terms": 20,
+    "quest": "social"
+  },
+  {
+    "id": "osint",
+    "title": "OSINT: Investigating with Open Sources",
+    "order": 6,
+    "minutes": 14,
+    "words": 1982,
+    "quiz": 10,
+    "terms": 18,
+    "quest": "osint"
+  },
+  {
+    "id": "law",
+    "title": "Law, Ethics and Privacy",
+    "order": 7,
+    "minutes": 16,
+    "words": 2318,
+    "quiz": 10,
+    "terms": 20,
+    "quest": null
+  },
+  {
+    "id": "pentest",
+    "title": "Penetration Testing: Thinking Like an Attacker",
+    "order": 8,
+    "minutes": 14,
+    "words": 1950,
+    "quiz": 10,
+    "terms": 20,
+    "quest": "pentest"
+  },
+  {
+    "id": "forensics",
+    "title": "Digital Forensics: Following the Evidence",
+    "order": 9,
+    "minutes": 14,
+    "words": 1923,
+    "quiz": 10,
+    "terms": 22,
+    "quest": "forensics"
+  },
+  {
+    "id": "blueteam",
+    "title": "Blue Team: Defending and Responding",
+    "order": 10,
+    "minutes": 16,
+    "words": 2260,
+    "quiz": 10,
+    "terms": 23,
+    "quest": "blueteam"
+  }
+]

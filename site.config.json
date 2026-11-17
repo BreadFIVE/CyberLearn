@@ -1,0 +1,7 @@
+{
+  "title": "CyberLearn",
+  "tagline": "Cyber security basics, explained clearly",
+  "questBase": "../cyberquest-collection/",
+  "questName": "CyberQuest",
+  "footer": "CyberLearn · for education · every example, person and company is fictional · stay legal, stay curious"
+}

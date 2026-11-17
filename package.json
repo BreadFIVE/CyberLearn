@@ -1,0 +1,13 @@
+{
+  "name": "cyberlearn",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CyberLearn: baseline lessons that lead into the CyberQuest challenges.",
+  "scripts": {
+    "build": "node build.js",
+    "test": "node tools/test.js"
+  },
+  "devDependencies": {
+    "playwright": "^1.63.0"
+  }
+}
