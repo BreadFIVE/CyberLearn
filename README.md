@@ -91,7 +91,7 @@ The builder refuses to build if a lesson has fewer than 8 quiz questions or 8 gl
 ## Content rules
 
 * **Teach ideas, not attacks.** Lessons explain how attacks work so people can defend against them. They do not contain step-by-step instructions for breaking into real systems, working malware, or anything that needs a real target.
-* **Keep the law lesson current.** Lesson 7 describes UK law as understood when it was written. Laws change, so have it checked by someone qualified before relying on it, and update the dates and penalties when the law changes. It is general information, not legal advice.
+* **Keep the law lesson current.** Lesson 7 describes UK law as understood when it was written. Laws change, so have it checked by someone qualified before relying on it. It is general information, not legal advice.
 * **Check worked examples by computing them.** `tools/test.js` recomputes the numbers in the examples (ciphers, subnets, hashes, permissions). If you add a new worked example with numbers, add a check for it there.
 * **Examples are fictional.** Companies, people and addresses are made up. IP addresses come from the ranges reserved for documentation (`192.0.2.x`, `198.51.100.x`, `203.0.113.x`).
-* **Links:** use the main address of a reputable site rather than a deep link that may move. The tests check the format, but not whether a site is still online, so click through the "keep learning" links now and then.
+* **Links:** use the main address of a reputable site rather than a deep link that may move. The tests check the format, but not whether a site is still online.
